@@ -1,0 +1,16 @@
+body {
+  background-color: #f0f0f0;
+}
+
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+p {
+  color: green;
+  font-size: 18px;
+  background-color: #fff;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
